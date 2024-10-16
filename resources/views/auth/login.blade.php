@@ -36,9 +36,6 @@
                 <img src="{{ asset('images/logoinicio.png') }}" alt="Logo de Inicio" style="width: 185px;">
                   <h4 class="mt-1 mb-5 pb-1">Universidad Laica «Eloy Alfaro» de Manabí – ULEAM.</h4>
                 </div>
-
-
-
                 
 
                 <form action="{{route('login')}}" method="post">

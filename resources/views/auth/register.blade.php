@@ -46,26 +46,22 @@
                   <p>Por favor, regístrate para crear una cuenta</p>
                   <div data-mdb-input-init class="form-outline mb-4">
                   <label class="form-label" for="form2Example11">Nombre</label>
-                    <input type="text" name="name" id="form2Example11" class="form-control"
-                      placeholder="Ingresa nombre" />
+                  <input type="text" name="name" id="form2Example11" class="form-control" placeholder="Ingresa nombre">
                   </div>
 
                   <div data-mdb-input-init class="form-outline mb-4">
                   <label class="form-label" for="form2Example11">Correo</label>
-                    <input type="email" name="email" id="form2Example11" class="form-control"
-                      placeholder="Ingresa tu correo electrónico" />
+                  <input type="email" name="email" id="form2Example12" class="form-control" placeholder="Ingresa tu correo electrónico">
                   </div>
 
                   <div data-mdb-input-init class="form-outline mb-4">
                   <label class="form-label" for="form2Example22">Contraseña</label>
-                    <input type="password" id="form2Example22" class="form-control" 
-                    placeholder="Ingresa una contraseña" />
+                  <input type="password" id="form2Example22" class="form-control" placeholder="Ingresa una contraseña">
                   </div>
 
                   <div data-mdb-input-init class="form-outline mb-4">
                   <label class="form-label" for="form2Example22">Confirmar contraseña</label>
-                    <input type="password" name="password_confirmation" id="form2Example22" class="form-control" 
-                    placeholder="Confirmar contraseña" />
+                  <input type="password" name="password_confirmation" id="form2Example23" class="form-control" placeholder="Confirmar contraseña">
                   </div>
 
 
